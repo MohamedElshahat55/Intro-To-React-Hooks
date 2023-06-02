@@ -73,7 +73,7 @@ Notice how the class component is way more complex. You need a class to extend R
 
 Using functional components removes a lot of `this`, so our code becomes shorter and easier to read and maintain.
 
-##Rules of Hook
+## Rules of Hook
 
 There are a few rules that must be followed when using React Hooks:
 
